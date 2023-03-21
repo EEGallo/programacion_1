@@ -1,4 +1,4 @@
-Nombre del proyecto: "Automatización playa de estacionamiento"
+Nombre del proyecto: "Playa de estacionamiento"
 
 Integrantes:	Yamila Palavecino
 		Emanuel Gallo
