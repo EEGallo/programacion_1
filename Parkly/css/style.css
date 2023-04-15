@@ -1,0 +1,69 @@
+    *{
+        box-sizing:content-box;
+        margin: 0%;
+        padding: 0%;
+    }
+
+    body{
+        background-color: darkslateblue;
+        font-size: 20px;
+        text-align: center;
+        font-family: 'Nunito', sans-serif;
+    }
+
+    h1, h2{
+        font-family: 'Nunito', sans-serif;
+        color: aliceblue;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    nav{
+        width: 100%;
+        background-color: #27384C;
+        margin: 0px;
+        padding: 20px;
+        position: fixed;
+        display: flex;
+        justify-content: space-around;
+        z-index: 1;
+    }
+    
+    p{
+        size-adjust: 600px;
+        font-size: medium;
+        color: azure;
+    }
+
+    a{
+        color: blanchedalmond;
+        font-family: 'Nunito', sans-serif;
+        padding: 10px;
+        margin-top: 10px;
+        text-decoration: none;
+    }
+    .contenedor-nav{
+        display: flexbox;
+        align-items: center;
+    }
+
+    div{
+        display: flexbox;
+
+    }
+
+    .brand{
+        padding: 100px;
+        height: 600px;
+
+    }
+
+    .body-registre{
+        display: flex;
+        justify-content: center;
+    }
+
+    form{
+        display: flex;
+        justify-content: center;
+    }
