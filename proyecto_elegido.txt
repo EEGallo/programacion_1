@@ -1,4 +1,0 @@
-Nombre del proyecto: "Playa de estacionamiento"
-
-Integrantes:	Yamila Palavecino
-		Emanuel Gallo
