@@ -1,0 +1,66 @@
+.App {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  background-color: #27384C;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.contenedor-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+}
+
+.contenedor-section-card {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(to bottom right, #707070, #27384C, #47FFFF);  
+}
+
+.box-text-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.text-Section-card {
+  color: aliceblue;
+  width: 60%;
+  text-align: center;
+}
+
+.contenedor-form {
+  position: absolute;
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: black;
+  overflow: hidden;
+}
+
+.img-form {
+  position: relative;
+}
+
+.contenedor-subnavBar{
+  position: fixed;
+  height: 30vh;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+}

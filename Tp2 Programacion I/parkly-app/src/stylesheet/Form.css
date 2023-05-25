@@ -1,0 +1,55 @@
+.box-form {
+    width: 60%;
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(67, 67, 67, 0.5);
+    border-radius: 4px;
+    color: #47FFFF;
+  }
+  
+  .box-form h2 {
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  
+  .form {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .campus-form {
+    display: grid;
+    gap: 5px;
+  }
+  
+  .campus-form label {
+    font-weight: bold;
+  }
+  
+  .campus-form input,
+  .campus-form select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .campus-form input[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .campus-form p {
+    color: red;
+    font-size: 12px;
+    margin: 5px 0 0;
+  }
+
+ 

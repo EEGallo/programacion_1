@@ -1,0 +1,37 @@
+.contenedor-Section3 {
+    width: 100%;
+    height: 1080px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background-color: #47FFFF;
+    position: relative;
+}
+
+.tittle-Section3 {
+    text-align: center;
+    font-size: 30px;
+    color: #00DFC4;
+}
+
+.contenedor-imagen-Section3 {
+    width: 100%;
+    height: 1080px;
+    overflow: hidden;
+}
+
+.imagen-Section3 {
+    width: 100%;
+    opacity: 20%;
+}
+
+.box-text-Section3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+}
